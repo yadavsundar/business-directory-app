@@ -1,0 +1,14 @@
+.userzone{
+	font-family: 'Merriweather', serif;
+}
+
+.userzone .form-horizontal .control-label {
+    padding-top: 7px;
+}
+
+.userzone .form-group {
+    margin-bottom: 20px;
+}
+select option, select.form-control option{
+	font-size: 12px;
+}
